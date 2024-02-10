@@ -1,4 +1,4 @@
-# KIT Maschinelles Lernen
+# Building a model to classify ReCAPTCHA V2 dataset
  
-Project to the lecture machine learning 1 at the Karlsruhe Institut of Technology (KIT) in the winter term WS 22/23. 
-Overall, we achived an accuracy of 87,43% on the benchmark dataset using SwinT-V2 transformer architecture.
+This project is part of the lecture machine learning 1 at the Karlsruhe Institute of Technology (KIT) in the winter term WS 22/23. 
+With our approach, we achived an accuracy of 87,43% on the benchmark dataset using a SwinT-V2 transformer architecture.
